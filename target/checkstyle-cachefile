@@ -1,0 +1,5 @@
+#Fri Oct 14 19:48:25 COT 2022
+configuration*?=B392F5AC5220F12DA7DC64E05DFA4CCD761A4DC2
+module-resource*?\:checkstyle-xpath-suppressions.xml=90A9744E322AF2763756247812AEB15B11A976D
+module-resource*?\:checkstyle-suppressions.xml=74A5705C699EF7D68F7114D6DFA4C2186EDE612A
+/Users/julianarango/Code/Especializacion/mavenproject1/src/main/resources/application.properties=1665792622973
